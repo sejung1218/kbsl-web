@@ -33,7 +33,7 @@
 
 <h2 align="center">프로젝트 기능</h2>
 <div align="center">
-  <span>2023.03 ~ 미정</span>
+  <span>##</span>
   <br/>
 </div>
 
