@@ -9,7 +9,8 @@
 
 <h2 align="center">💻개발 스택</h2>
 <div align="center">
-  <span>React</span>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<!--   <span>React</span> -->
   <br/>
   <span>Next.js</span>
   <br/>
