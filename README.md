@@ -1,10 +1,11 @@
-<h2 align="center"> 프로젝트 소개 </h2>
+<h2 align="center"> PROJECT INTRODUCTION </h2>
 <div align="center">
-  <span>프로젝트명 : </span><span style="color:purple">KBSL</span>
+  <span>PROJECT NAME : </span><span style="color:purple">KBSL</span>
   <br/>
-  <span>⚙️개발 언어 : </span>
+  <h2>⚙️PROJECT LANGUAGE : </h2>
+  <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></span>
 <!--   <span>TypeScript</span> -->
-  <div style="vertical-align: middle"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></div>
+<!--   <div style="vertical-align: middle"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></div> -->
 <!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" style="vertical-align: middle">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" style="vertical-align: text-bottom;"> -->
   
@@ -12,7 +13,7 @@
 <br/>
 <br/>
 
-<h2 align="center">💻개발 스택</h2>
+<h2 align="center">💻STACK</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=Next.js&logoColor=white">
