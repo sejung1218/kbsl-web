@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" style="vertical-align: text-bottom;"> -->
   
 </div>
-<br/>
-<br/>
+
 
 <h2 align="center">💻STACK</h2>
 <div align="center">
@@ -33,9 +32,6 @@
   <br/>
   <span>Formik</span> -->
 </div>
-
-<br/>
-<br/>
 
 <h2 align="center">⏱개발 기간</h2>
 <div align="center">
