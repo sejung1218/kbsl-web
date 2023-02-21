@@ -5,7 +5,7 @@
   <span>개발 언어 : </span><span>TypeScript</span>
 </div>
 
-<h3 align="center">개발 스택</h3>
+<h2 align="center">개발 스택</h2>
 <div align="center">
   <span>React</span>
   <br/>
