@@ -2,7 +2,12 @@
 <div align="center">
   <span>프로젝트명 : </span><span style="color:purple">KBSL</span>
   <br/>
-  <span>⚙️개발 언어 : </span><span>TypeScript</span>
+  <span>⚙️개발 언어 : </span>
+<!--   <span>TypeScript</span> -->
+  <div style="vertical-align: middle"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></div>
+<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" style="vertical-align: middle">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" style="vertical-align: text-bottom;"> -->
+  
 </div>
 <br/>
 <br/>
@@ -13,8 +18,8 @@
   <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=TailwindCss&logoColor=black">
   <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=MobX&logoColor=black">
-  <img src="https://img.shields.io/badge/Yup-61DAFB?style=for-the-badge&logo=Yup&logoColor=black">
-  <img src="https://img.shields.io/badge/Formik-61DAFB?style=for-the-badge&logo=Formik&logoColor=black">
+<!--   <img src="https://img.shields.io/badge/Yup-61DAFB?style=for-the-badge&logo=Yup&logoColor=black">
+  <img src="https://img.shields.io/badge/Formik-61DAFB?style=for-the-badge&logo=Formik&logoColor=black"> -->
   
 <!--   <span>React</span> -->
 <!--   <span>Next.js</span>
